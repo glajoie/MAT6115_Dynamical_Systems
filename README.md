@@ -1,7 +1,7 @@
-# MAT6115_Dynamical_Systems
-Support material for MAT6115, Université de Montréal, Fall 2018
+# MAT6215_Dynamical_Systems
+Support material for MAT6115, Université de Montréal, Winter 2021
 
-Course webpage is hosted on UdeM's Studium platform: https://studium.umontreal.ca/course/view.php?id=143379
+Course webpage: https://sites.google.com/view/mat6115h20/home
 
 Most code will take the form of a Jupyter Python Notebook. Usual scientific libraries will be used (i.e. numpy, scipy, matplotlib). For those of you new to Python and/or Jupyter notebooks, I recommend using an environemt manager like Anaconda or miniconda. I may occasionally post some MATLAB code (although I promise to try to avoid it).
 
