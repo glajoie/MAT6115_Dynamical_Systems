@@ -7,6 +7,6 @@ Most code will take the form of a Jupyter Python Notebook. Usual scientific libr
 
 ## Links
 
-* Conda (Anaconda/miniconda): https://conda.io/docs/user-guide/install/index.html
+* Conda (Anaconda/miniconda): https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html
 * Jupyter : http://jupyter.org/install
 
